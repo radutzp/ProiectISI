@@ -5,7 +5,9 @@ using System.Web;
 
 namespace ProiectISI.Models
 {
-    public class Context
+    public class Context : DbContext
+
     {
+
     }
 }
